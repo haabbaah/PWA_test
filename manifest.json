@@ -2,7 +2,7 @@
 	"name": "PWA TEST APP",
 	"short_name": "Test",
 	"lang": "ru-RU",
-	"start_url": "/?utm_source=a2hs",
+	"start_url": "https://haabbaah.github.io/PWA_test/",
 	"display": "standalone",
 	"icons": [
 		{
